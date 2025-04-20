@@ -5,7 +5,7 @@ function Footer() {
     <footer className="w-full bg-white/80 backdrop-blur-md mt-10 py-6 px-4 md:px-8 rounded-xl shadow-lg">
       <div className="max-w-7xl mx-auto flex flex-col md:flex-row justify-between items-center">
         {/* Social Links */}
-        <div className="bg-gradient-to-br from-blue-100 to-purple-100 p-4 rounded-lg shadow-md max-w-sm w-full">
+        <div className="bg-gradient-to-br from-blue-100 to-purple-100 p-4 rounded-lg shadow-md max-w-sm w-full mb-8">
           <div className="flex items-center mb-3">
             <div className="w-12 h-12 bg-blue-900 rounded-full flex items-center justify-center text-white font-bold text-lg mr-3">
               MJ
